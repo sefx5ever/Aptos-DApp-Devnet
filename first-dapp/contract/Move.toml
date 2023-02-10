@@ -1,0 +1,9 @@
+[package]
+name = 'hello'
+version = '1.0.0'
+
+[dependencies]
+AptosFramework = { local = "/Users/sirius/docs/BlockChain/aptos-core/aptos-move/framework/aptos-framework" }
+
+[addresses]
+hello_blockchain = '_'
