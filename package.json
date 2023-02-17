@@ -11,10 +11,11 @@
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "aptos": "^1.6.0",
+    "eslint-plugin-react-hooks": "^5.0.0-next-189f70e17-20230216",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
